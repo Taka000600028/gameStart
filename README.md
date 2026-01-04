@@ -5,7 +5,7 @@
 # Minecraft用　鉱石採掘ゲーム（OreMining）⛏
 
 ## はじめに
-本リポジトリはJavaエンジニア転職を目指す「たか」（Xアカウント：https://x.com/Taka_Web_Corder） が作成したMinecraftプラグイン「鉱石採掘ゲーム（OreMining）」に関するものです。
+本リポジトリはJavaエンジニア転職を目指す「たか」（ Xアカウント：https://x.com/Taka_Web_Corder ） が作成したMinecraftプラグイン「鉱石採掘ゲーム（OreMining）」に関するものです。
 
 ## ゲームの概要
 - 30秒のゲーム時間内に様々な種類の鉱石ブロックを採掘して、点数を競うゲームです。
